@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { createProfile, uploadProfilePhoto, setActiveProfile, API_BASE } from '../api';
+import { createProfile, uploadProfilePhoto, API_BASE } from '../api';
 import '../App.css';
 
 const ProfileSlider = ({ user, profiles, isOpen, onClose, token, onProfileCreated, selectedProfile, onProfileSelect }) => {
