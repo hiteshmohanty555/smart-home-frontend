@@ -384,7 +384,7 @@ export default function Dashboard({ user, selectedProfile }) {
 
       <footer className="dashboard-footer">
         <div className="footer-content">
-          <p>&copy; 2024 Smart Home by Team Alpha. All rights reserved.</p>
+          <p>&copy; 2026 My Smart Space by Team Alpha. All rights reserved.</p>
           <div className="footer-stats">
             <span>System Status: {connected ? '🟢 Online' : '🔴 Offline'}</span>
             <span>•</span>
