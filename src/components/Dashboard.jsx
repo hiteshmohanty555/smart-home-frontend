@@ -176,7 +176,7 @@ export default function Dashboard({ user, selectedProfile }) {
       <header className="dashboard-header">
         <div className="header-content">
           <div className="brand-section">
-            <h1 className="dashboard-title">🏠 Smart Home Dashboard</h1>
+            <h1 className="dashboard-title">🏠 My Smart Space Dashboard</h1>
             <p className="dashboard-subtitle">Intelligent Home Control System</p>
           </div>
           <div className="header-controls">
