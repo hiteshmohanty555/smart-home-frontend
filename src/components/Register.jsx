@@ -201,7 +201,7 @@ export default function Register({ onRegister }) {
             <div className="profile-icon">👤</div>
           </div>
 
-          <h1 className="register-title">Join Smart Home</h1>
+          <h1 className="register-title">Join My Smart Space</h1>
           <p className="register-subtitle">Create your account to get started</p>
 
           <div className="register-form">
