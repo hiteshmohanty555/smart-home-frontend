@@ -8,7 +8,7 @@ const HomePage = () => {
   return (
     <div className="home-page">
       <header className="home-header">
-        <h1>Welcome to Smart Home</h1>
+        <h1>Welcome to My Smart Space</h1>
         <p>Your intelligent home control system</p>
       </header>
 
@@ -67,7 +67,7 @@ const HomePage = () => {
         </section>
 
         <section className="about">
-          <h3>About Smart Home</h3>
+          <h3>About My Smart Space</h3>
           <p>
             Our smart home system integrates seamlessly with your existing devices to provide
             a centralized control hub. Whether you're at home or away, maintain comfort,
@@ -77,7 +77,7 @@ const HomePage = () => {
       </main>
 
       <footer className="home-footer">
-        <p>&copy; 2024 Smart Home by Team Alpha. All rights reserved.</p>
+        <p>&copy; 2026 My Smart Space by Team Alpha. All rights reserved.</p>
       </footer>
     </div>
   );
