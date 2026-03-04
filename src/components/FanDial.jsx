@@ -12,7 +12,7 @@ import React, { useRef, useEffect, useState } from "react";
  */
 export default function FanDial({ value = 0, onChange = () => {}, size = 150 }) {
   const svgRef = useRef(null);
-  const [dragging, setDragging] = useState(false);
+  const [, setDragging] = useState(false);
 
   // radius / stroke
   const r = (size / 2) - 14;
